@@ -41,9 +41,9 @@ struct ProspectsView: View {
         case .none:
             return "Everyone"
         case .contacted:
-            return "Contacted people"
+            return "Contacted People"
         case .uncontacted:
-            return "Uncontacted people"
+            return "Uncontacted People"
         }
     }
 
